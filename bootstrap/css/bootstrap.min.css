@@ -330,7 +330,7 @@ hr {
     margin-top: 10px;
     margin-bottom: 10px;
     border: 0;
-    border-top:1px solid #dddddd;
+    border-top:1px solid #100a0a;
 }
 
 .sr-only {
@@ -709,6 +709,7 @@ pre code {
 	.container {
         width: 1180px;
 		padding:0;
+        margin-top: 10px;
     }
 }
 @media (max-width:1199px) {
@@ -5204,6 +5205,7 @@ a.list-group-item-danger.active,a.list-group-item-danger.active:hover,a.list-gro
 
 .panel-group {
     margin-bottom: 20px;
+    margin-top: 21px;
 }
 
 .panel-group .panel {
